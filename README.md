@@ -1,13 +1,12 @@
 
-
 <h1 align="center">Hi 👋, I'm Ankit Kumar </h1>
 <h3 align="center">A passionate Computer Science student, web developer, graphic designer from India </h3>
 
-- I’m interested in Technology and Research Fields
-- I’m currently pursuing a Bachelor from the Indian Institute of Technology (IIT) Patna
-- I'm the CodePeak NWoC | Open Contribution IITP & IITG 2023-24
-- I was the HackGPT Celesta'23 participants - IIT Patna
-- I was the participants of ISRO Geodata Processing Using Python - IIRS Dehradun (Hybrid Mode)           
+- 🔭 I’m currently pursuing a Bachelor's degree in Computer Science at the Indian Institute of Technology (IIT) Patna
+- 🌱 I’m interested in Technology and Research Fields
+- 💻 CodePeak NWoC | Open Contribution IITP & IITG 2023-24
+- 🚀 HackGPT Celesta'23 participant - IIT Patna
+- 🛰️ ISRO Geodata Processing Using Python participant - IIRS Dehradun (Hybrid)           
 - 👨‍💻 Github: [https://github.com/ankit485803/](https://github.com/ankit485803/)
 
 
@@ -16,6 +15,7 @@
 <a href="https://www.linkedin.com/in/ankit485803/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit485803" height="30" width="40" /></a>
 <a href="https://leetcode.com/ankit485803/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankit485803" height="30" width="40" /></a>
 <a href="https://twitter.com/Ankit485803/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ankit485803" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ankit_iitp127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ankit_iitp127" height="30" width="40" /></a>
 </p>
 
 
