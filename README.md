@@ -16,7 +16,8 @@
 - 🌱 I’m interested in Technology and Research Fields
 - 💻 CodePeak NWoC | Open Contribution IITP & IITG 2023-24
 - 🚀 HackGPT Celesta'23 participant - IIT Patna
-- 🛰️ ISRO Geodata Processing Using Python participant - IIRS Dehradun (Hybrid)           
+- 🛰️ ISRO Geodata Processing Using Python participant - IIRS Dehradun (Hybrid)
+- 	Silver Badge in Daily Streak & Bronze for Problem Solver | CodeCheff                                           
 - 👨‍💻 Github: [https://github.com/ankit485803/](https://github.com/ankit485803/)
 
 
@@ -62,6 +63,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+
+<br><br><br><br>
+
+
+
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
@@ -70,6 +76,20 @@ You can click the Preview link to take a look at your changes.
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/ankit485803/count.svg" />  
 </p>
+
+
+
+<br><br><br><br>
+<!-- our LINK - TREE handles -->
+## Connect with Me
+
+Find me on [Linktree](https://linktr.ee/ankit127iitp) to explore all my social profiles handles and other platforms!
+
+<p align="center">
+  <a href="https://linktr.ee/ankit127iitp"><img src="https://img.shields.io/badge/Linktree-ankit127iitp-green" alt="Linktree"></a>
+</p>
+
+
 
 
 
