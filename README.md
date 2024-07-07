@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar </h1>
-<h3 align="center">A passionate Computer Science student, web developer, graphic designer from India </h3>
+<h3 align="center">A passionate Computer Science student, web developer, and graphic designer from India </h3>
 
 <!-- A   WARM  GREATING -->
 <p align="center">
@@ -22,33 +22,25 @@
 <!--  EXPERIENCE - SECTION   -->
 <!-- this section is updated when my research intern is ongoing at IIIT Guwahati -->
 
-# Ankit's Research Internship at IIIT Guwahati
+<!-- MY RESEARCH: FIELD OF INTEREST -->
 
-## Summer Research Intern
+## ✍️ Research: Field of Interest
+**Machine Learning & Neural Networks: (ANN, CNN, RNN), LSTM, Transformer and KNN**
+- Expertise:
+  **Artificial Neural Networks based: SLP (Uni-variant) & MLP (Multi-variant) for Optimal Predictive Model Development**
 
-- **Organization:** Indian Institute of Information Technology Guwahati (IIITG)
-- **Duration:** May 18, 2024 - Present
-- **Location:** Guwahati, Assam, India (On-site)
-
-### Project Details
-
-- **Title:** Ongoing Research Intern '24 (pure offline)
-- **Supervisor:** Dr. Hari K Chaudhary (Department of Humanities and Social Sciences, IIITG)
-- **Description:**
-  - Working on data processing and handling stock market data.
-  - Applying machine learning techniques (LNN, CNN, KNN) to analyze time series data.
-  - Visualizing data through graphs for comprehensive analysis.
-  - Collaborating with research scholars and faculty members, including guidance from Dr. Hari K. Chaudhary and Mr. Sanjib Singha.
-  - Engaging with fellow researchers in the academic block, gaining insights into the research process and future scope in economics and data analytics.
-  - Interacting with a supportive research team, including research scholars and mentors.
-  - Gaining hands-on experience in the academic environment of IIITG, having come from IIT Patna.
+  
 
 ## 🌐 Connect with Me :
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ankit485803/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit485803" height="30" width="40" /></a>
-<a href="https://leetcode.com/ankit485803/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankit485803" height="30" width="40" /></a>
-<a href="https://twitter.com/Ankit485803/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ankit485803" height="30" width="40" /></a>
+<!--LINKEDIN -->
+<a href="https://www.linkedin.com/in/ankit127iitp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit127iitp" height="30" width="40" /></a>
+  <!-- LeetCode -->
+<a href="https://leetcode.com/u/ankit485803/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankit485803" height="30" width="40" /></a>
+  <!-- Twitter -->
+<a href="https://x.com/Ankit485803/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ankit485803" height="30" width="40" /></a>
+    <!-- YouTube -->
 <a href="https://www.youtube.com/@ankit_iitp127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ankit_iitp127" height="30" width="40" /></a>
 </p>
 
