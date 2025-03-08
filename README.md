@@ -10,10 +10,12 @@
 
 - 🔭 I’m currently pursuing a Bachelor's degree in Computer Science at the Indian Institute of Technology (IIT) Patna
 - 🌱 I’m interested in Technology and Research Fields
+- ✍️ Currently Research Asst.(Project)/IIRS-ISRO Dehradun/Dept of Space/Govt of India 
+- 🛰️ ISRO Meghalaya Centre: NESAC as Project Trainee (Intern'25)
 - ✍️ Research Intern'24 at IIIT Guwahati
-- 💻 CodePeak NWoC | Open Contribution IITP & IITG 2023-24
+- 💻 CodePeak NWoC | Open Contribution IITP & IITG 2023
 - 🚀 HackGPT Celesta'23 participant - IIT Patna
-- 🛰️ ISRO Geodata Processing Using Python participant - IIRS Dehradun (Hybrid)
+
 -       Gold Badge in Daily Streak & Bronze for Problem Solver | CodeCheff
 - 👨‍💻 Github: [https://github.com/ankit485803/](https://github.com/ankit485803/)
 
