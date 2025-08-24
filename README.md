@@ -67,19 +67,23 @@ ankit485803/ankit485803 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<br><br><br><br>
+<br><br>
+
+<!-- retro visitor counter  
 
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-    
-<!-- retro visitor counter -->  
+
+
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/ankit485803/count.svg" />  
 </p>
 
-<br><br><br><br>
+--> 
 
+
+<br><br>
 <!-- our LINK - TREE handles -->
 
 ## Connect with Me
