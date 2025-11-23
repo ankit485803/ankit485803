@@ -86,7 +86,6 @@
 - **Deployment**: Hostinger, Server-Side Management
 
 
-
 <!--- trophy (start) -->
 
 # 📊 GitHub Stats:
@@ -96,8 +95,14 @@ alt="ankit485803" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit485803&show_icons=true&locale=en" alt="ankit485803" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit485803&" alt="ankit485803" /></p>
+<p><img align="center" src="https://readme-streak-stats.herokuapp.com/?user=ankit485803&" alt="ankit485803" /></p>
 
+---
+<!-- LeetCode Achievement Badge GIF -->
+<p align="center">
+  <img src="https://github.com/ankit485803/MyAdvDSA_PathwayToCP/blob/main/01_LeetCode/achivements/100_dailyStive_Badget.gif" 
+       alt="LeetCode 100 Days Achievement" width="250" height="auto" />
+</p>
 
 
 
