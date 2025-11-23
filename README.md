@@ -101,25 +101,14 @@ alt="ankit485803" /></p>
 <!-- LeetCode Achievement Badge GIF -->
 <p align="center">
   <img src="https://github.com/ankit485803/MyAdvDSA_PathwayToCP/blob/main/01_LeetCode/achivements/100_dailyStive_Badget.gif" 
-       alt="LeetCode 100 Days Achievement" width="250" height="auto" />
+       alt="LeetCode 100 Days Achievement" width="150" height="auto" />
 </p>
-
-
-
-
-<!---
-ankit485803/ankit485803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<br>
 
 <!-- retro visitor counter  
 
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-
-
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/ankit485803/count.svg" />  
 </p>
@@ -127,9 +116,6 @@ You can click the Preview link to take a look at your changes.
 --> 
 
 
-
-
-<br><br>
 <!-- our LINK - TREE handles -->
 ## 🌐 Connect with Me:
 
