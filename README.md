@@ -131,8 +131,8 @@ alt="ankit485803" /></p>
   </a>
   
   <!-- Twitter -->
-  <a href="https://x.com/Ankit485803/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ankit485803" height="30" width="40" />
+  <a href="https://x.com/ankit127iitp/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankit127iitp" height="30" width="40" />
   </a>
   
   <!-- YouTube -->
