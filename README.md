@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar </h1>
 <h3 align="center">A passionate Computer Science student, problem solver (DSA), and web developer from India </h3>
 
-<!-- A   WARM  GREATING -->
+<!-- A   WARM  GREETING -->
 <p align="center">
   <a href="https://github.com/ankit485803//ankit485803"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&size=24&center=true&vCenter=true&width=600&height=100&lines=Pursuing+Bachelor+in,;Computer+Science+and+Data+Analytics+(CSDA),;+From+IIT+Patna,;Passionate+Full+Stack+Web+Developer,;Creating+Complex+and+Innovative+Solutions,;Constant+Learner+and+Tech+Enthusiast!"></a>
 </p>
@@ -75,10 +75,10 @@
 
 - **Frontend**: HTML5, CSS3, JavaScript, React
 - **Backend**: Node.js, Express.js
-- **Database**: MySQL, MongoDB (NoSQL), PostgreSQL (Supabase)
+- **Database**: MySQL, MongoDB (NoSQL)
 - **Web Development Stack**: MERN (MongoDB, Express.js, React, Node.js)
 - **Coursework**: Data Structures, Algorithms, Computer Architecture & Organization, Networks & Security, Operating Systems
-- **Data Science & AI**: Python, TensorFlow, PyTorch, MATLAB
+- **Data Science & AI**: Python, TensorFlow, PyTorch, scikit-learn, MATLAB
 
 ---
 
@@ -87,8 +87,9 @@
 - **Version Control**: Git, GitHub
 - **Editor & IDE**: VS Code
 - **Containerization**: Docker
+- **Big Data Tools**: Apache Hadoop
 - **Software Packages**: MATLAB, Octave, Jupyter, Google Colab, MS Office
-- **Deployment**: Hostinger, Server-Side Management
+- **Deployment**: Hostinger (VPS), Server-Side Management
 
 
 <!--- trophy (start) -->
