@@ -6,6 +6,11 @@
   <a href="https://github.com/ankit485803//ankit485803"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&size=24&center=true&vCenter=true&width=600&height=100&lines=Pursuing+Bachelor+in,;Computer+Science+and+Data+Analytics+(CSDA),;+From+IIT+Patna,;Passionate+Full+Stack+Web+Developer,;Creating+Complex+and+Innovative+Solutions,;Constant+Learner+and+Tech+Enthusiast!"></a>
 </p>
 
+<!--for visitorCount using external service (Komarev badge) -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ankit485803&label=Profile%20views&color=ff69b4&style=flat-square" alt="profile views" />
+</p>
+
 ### 💻 About Me :
 - 🔭 I’m currently pursuing a Bachelor's degree in Computer Science at the Indian Institute of Technology (IIT) Patna
 - 🌱 I’m interested in Technology and Research Fields
