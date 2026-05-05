@@ -114,17 +114,25 @@ alt="ankit485803" /></p>
        alt="LeetCode 100 Days Achievement" width="150" height="auto" />
 </p>
 
-<!-- retro visitor counter  
+---
+## 🚀 Coding Activity & LeetCode Insights
+<table>
+<tr>
+<td width="55%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit485803&theme=tokyo-night" width="100%" />
+</td>
 
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/ankit485803/count.svg" />  
-</p>
-
---> 
-
+<td width="45%" align="center">
+<img src="https://leetcard.jacoblin.cool/ankit485803?theme=dark&font=Karma" width="90%" />
+  
+<br><br>
+<a href="https://leetcode.com/u/ankit485803/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
+  
+</td>
+</tr>
+</table>
 
 <!-- our LINK - TREE handles -->
 ## 🌐 Connect with Me:
